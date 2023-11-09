@@ -1,0 +1,5 @@
+cifar-10-batches-py
+model_cifar_op.h5
+oregon_wildlife
+wild_model.h5
+*.csv
